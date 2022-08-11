@@ -8,9 +8,15 @@ contact_entries:
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
+<b><u>We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+is valuable for us.</u></b>
+
+<br>
+
+<i>foo</i>
+
+<br>
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
